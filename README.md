@@ -2,7 +2,7 @@
 - 👀 I’m interested in software and Android app development
 - 🌱 I’m currently learning Kotlin and Android Apps
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can always reach me via o.darlington@outlook.com
+- 📫 You can always reach me via o.darlington@outlook.com or olelewexpressrules@outlook.com
 
 <!---
 xpressrules/xpressrules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
